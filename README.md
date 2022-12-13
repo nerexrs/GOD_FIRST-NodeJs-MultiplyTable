@@ -1,7 +1,7 @@
 //Inglés or English but in translate for lazy purposes
 # Notes:
 This is my first program in Node
-1) To use it or you can download the repo where it says clone there in http copies the link
+1) To use it or you can download the repo where it says code there in http copies the link
 2) From there go to your terminal or your windows powershell
 3) Go to a folder where you want the program and write
 -git clone *here the link*, without asterisks, that is, it would be:
@@ -30,7 +30,7 @@ Options:
 //Español o Spanish, esto sí lo escribí yo xd
 # Notas:
 Este es mi primer programa en Node
-1)Para usarlo o puedes descargar el repo donde dice clone ahí en http copias el link
+1)Para usarlo o puedes descargar el repo donde dice code ahí en http copias el link
 
 2)De ahí ve a tu terminal o tu windows powershell 
 
