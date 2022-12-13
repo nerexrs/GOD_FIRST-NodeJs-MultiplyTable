@@ -31,10 +31,15 @@ Options:
 # Notas:
 Este es mi primer programa en Node
 1)Para usarlo o puedes descargar el repo donde dice clone ahí en http copias el link
+
 2)De ahí ve a tu terminal o tu windows powershell 
+
 3)Ve a una carpeta donde quieres el programa y escribe
+
 -git clone *aquí el link*, sin asteriscos es decir sería:
+
       git clone https://github.com/nerexrs/GOD_FIRST-NodeJs-MultiplyTable.git
+      
 3) para instalar los paquetes necesarios que son yargs y colors solo escribe npm install
 
 4) para correr el programa escribe node app -h o node app --help para ver todos los comandos
